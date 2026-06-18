@@ -1,1 +1,17 @@
+public class Port {
+    public static void main(String[] args) {
+        String name = "Md. Sayeed";
+        String studentId = "E253063";
+        int age = 21;
+        String phone = "01813551732";
+        String email = "iiuc@gmail.com";
+        String address = "South Khulshi";
 
+        System.out.println("Name :- " + name);
+        System.out.println("Student ID :- " + studentId);
+        System.out.println("Age :- " + age);
+        System.out.println("Phone :- " + phone);
+        System.out.println("Email :- " + email);
+        System.out.println("Address :- " + address);
+    }
+}
